@@ -9,7 +9,7 @@ Y39 from Ittrium (a RARE EARTH) and Developments because (software and hardware 
 - 📫 How to reach me
 - yttriumdevs@gmail.com
 - https://www.instagram.com/y39develop/
-
+- https://www.linkedin.com/in/germ%C3%A1n-mazza-07a5033b/
 <!---
 Y39Developments/Y39Developments is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
